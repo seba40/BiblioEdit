@@ -16,7 +16,7 @@
 
 
 <h1 align="center">INSTALLATION</h1>
-<p align="center">The game is not currently available for public release</p>
+<p align="center">The application is not currently available for public release</p>
 <h1 align="center">SCREENSHOTS</h1>
 <p align="center"><img src="https://i.imgur.com/m0wekhK.png" align="center"></p>
 <p align="center"><img src="https://i.imgur.com/fj1klPJ.png" align="center"></p>
