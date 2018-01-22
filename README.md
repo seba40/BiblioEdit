@@ -5,7 +5,7 @@
   <img  src="https://i.imgur.com/jcyPfx8.png">
 </p>
 <h1 align="center">DESCRIPTION</h1>
-<p align="center">While i was in college i had to make a homework involving an app for managing a book library. I decided to improve on that homework so i made an application with UI where you can visualize,add,change or delete a collection of books and also including a search and filter functions.   </p>
+<p align="center">While i was in college i had to make a homework involving an app for managing a book library. I decided to improve on that homework so i made an application with UI where you can visualize,add,change or delete a collection of books and also It also includes a search and filter function.</p>
 <h1 align="center">BUILT WITH</h1>
  <p align="center">  <a href="https://www.visualstudio.com/vs/">Visual Studio </a>- IDE</p>
  <p align="center" >  <a href="https://www.python.org/">Python </a>- Programming Language</p>
